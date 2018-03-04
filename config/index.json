@@ -1,4 +1,4 @@
 {
-  "dbUri": "mongodb://admin:PortFolio!@ds247678.mlab.com:47678/portfolio",
+  "dbUri": "",
   "jwtSecret": "a secret phrase!!"
 }
